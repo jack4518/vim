@@ -1,0 +1,1373 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/getMeta
+
+# 上个 替换 Search 图案：
+~MSle0&^\s*$
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:q
+:qw
+:w
+:tabnew framework/model/model.php
+:e!
+:W
+:source ~/.vimrc
+:wq
+:tabnew 201.sh
+:help CSApprox
+:CSApprox
+:BundleInstall
+:BundleI
+:BundleSearch
+:tabnew ~/.vimrc
+:ColorSchemeExplorer
+::ColorSchemeExplorer
+:csExplorer
+:NERDTreeToggleor
+:let g:indent_guides_guide_size=1
+
+# 查找字符串 历史记录 (从新到旧)：
+?/getMeta
+?/csapp
+?/cs
+?/*
+?/c
+?/doIn
+?/setDa
+?/doin
+?/doinsert
+?/doCom
+?/doI
+?/insert
+?/set(
+?/setDaoT
+?/_insert
+?/setDB
+?/find
+?/Leb_Config
+?/_meta
+?/<F6>
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+@.
+@/tmp/jbc
+@jbc
+@/tmp
+@abc
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	LINE	0
+	"colorscheme murphy
+""1	LINE	0
+				echo 'af';
+"2	LINE	0
+	"colorscheme murphy
+"3	LINE	0
+	" 设置配色方案
+"4	LINE	0
+	asd
+"5	LINE	0
+	var_dump($array);
+"6	LINE	0
+	var_dump($array['sign']);
+"7	LINE	0
+	<tr></tr>
+"8	LINE	0
+	<tr></tr>
+"9	LINE	0
+			 */
+"z	CHAR	0
+	zfjkkkzf%
+"-	CHAR	0
+	 
+
+# 文件标记:
+'0  93  22  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+'1  1  0  /usr/share/vim/vim73/colors/a.cpp
+'2  9  4  /usr/share/vim/vim73/colors/a.php
+'3  1  0  /usr/share/vim/vim73/colors/a.sh
+'4  11  0  ~/.vim/plugin/NERD_tree_2
+'5  21778  0  ~/.vim/phpctags
+'6  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+'7  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+'8  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/lo
+'9  49  0  ~/.vimrc
+
+# 跳转列表 (从新到旧):
+-'  93  22  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+-'  103  10  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+-'  38  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+-'  10  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+-'  1  0  /usr/share/vim/vim73/colors/a.cpp
+-'  9  4  /usr/share/vim/vim73/colors/a.php
+-'  3  1  /usr/share/vim/vim73/colors/a.php
+-'  1  0  /usr/share/vim/vim73/colors/a.php
+-'  1  0  /usr/share/vim/vim73/colors/a.sh
+-'  11  0  ~/.vim/plugin/NERD_tree_2
+-'  13  2  ~/.vim/plugin/NERD_tree_2
+-'  1  0  ~/.vim/plugin/NERD_tree_2
+-'  12  2  ~/.vim/plugin/NERD_tree_1
+-'  1  0  ~/.vim/plugin/NERD_tree_1
+-'  21778  0  ~/.vim/phpctags
+-'  1  0  ~/.vim/phpctags
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/lo
+-'  49  0  ~/.vimrc
+-'  1  0  ~/.vimrc
+-'  60  13  ~/.vimrc
+-'  1  0  ~/shell/58.sh
+-'  11  11  ~/shell/get_vim_colors.sh
+-'  8  13  ~/shell/get_vim_colors.sh
+-'  1  0  ~/shell/get_vim_colors.sh
+-'  40  45  ~/index.html
+-'  1  0  ~/index.html
+-'  47  10  ~/.vim/plugin/setcolor.vim
+-'  1  0  ~/.vim/plugin/setcolor.vim
+-'  1  0  ~/.vim/plugin/setcolors.vim
+-'  172  46  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  22  2  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  163  12  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  222  18  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  195  11  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  196  12  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  93  7  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  2  2  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  3  2  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  41  1  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  1  0  ~/.vim/bundle/calendar.vim/README
+-'  9  0  ~/.vim/bundle/NERD_tree_2
+-'  1  0  ~/.vim/bundle/NERD_tree_2
+-'  9  2  ~/.vim/bundle/NERD_tree_1
+-'  1  0  ~/.vim/bundle/NERD_tree_1
+-'  47  27  ~/.vim/bundle/calendar.vim/plugin/calendar.vim
+-'  15  0  ~/.vim/bundle/NERD_tree_2
+-'  16  2  ~/.vim/bundle/NERD_tree_2
+-'  17  2  ~/.vim/bundle/NERD_tree_1
+-'  18  20  /var/www/test/news/jiaju.php
+-'  1  0  /var/www/test/news/jiaju.php
+-'  16  1  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  69  16  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  99  1  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  94  3  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  101  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  26  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  25  1  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  24  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  30  1  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  1017  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+-'  340  8  /var/www/leju/slae.leju.com/branches/v9.0/framework/__Tagbar__
+-'  423  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/__Tagbar__
+-'  92  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/NERD_tree_1
+-'  131  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/NERD_tree_1
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/NERD_tree_1
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/global.php
+-'  47  8  /var/www/leju/admin.slae.leju.com/trunk/app/openapp/replica.php
+-'  1  0  /var/www/leju/admin.slae.leju.com/trunk/app/openapp/replica.php
+-'  1  0  /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model
+-'  311  42  /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+-'  1  0  /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+-'  312  69  /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+-'  445  11  /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+-'  368  11  /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+-'  1059  4  /var/www/leju/slae.leju.com/trunk/framework/model/model.php
+-'  236  45  /var/www/leju/slae.leju.com/trunk/framework/model/model.php
+-'  233  56  /var/www/leju/slae.leju.com/trunk/framework/model/model.php
+-'  1  0  /var/www/leju/slae.leju.com/trunk/framework/model/model.php
+-'  265  6  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  244  46  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  227  20  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  210  10  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  102  18  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  51  31  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  50  31  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  745  26  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  684  56  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  583  12  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  580  18  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  552  42  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  548  13  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  397  17  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  368  20  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+-'  262  5  /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/loader.php
+	"	93	22
+	.	103	0
+	+	180	1
+	+	11	0
+	+	10	0
+	+	10	0
+	+	10	3
+	+	10	3
+	+	10	0
+	+	1	0
+	+	38	0
+	+	103	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model.php
+	"	719	31
+	.	16	0
+	+	544	0
+	+	544	0
+	+	547	0
+	+	101	0
+	+	547	0
+	+	526	35
+	+	527	38
+	+	529	37
+	+	501	10
+	+	500	2
+	+	498	94
+	+	501	0
+	+	498	95
+	+	498	5
+	+	502	39
+	+	534	56
+	+	498	56
+	+	506	14
+	+	508	14
+	+	513	14
+	+	517	0
+	+	505	0
+	+	494	0
+	+	501	17
+	+	504	13
+	+	501	0
+	+	504	0
+	+	416	0
+	+	416	0
+	+	425	24
+	+	427	0
+	+	430	19
+	+	431	5
+	+	430	19
+	+	432	0
+	+	436	0
+	+	436	0
+	+	430	2
+	+	512	0
+	+	264	0
+	+	433	0
+	+	50	0
+	+	51	13
+	+	52	13
+	+	54	15
+	+	55	0
+	+	429	39
+	+	331	0
+	+	331	0
+	+	332	16
+	+	341	100
+	+	343	12
+	+	345	0
+	+	343	0
+	+	340	32
+	+	341	15
+	+	340	33
+	+	347	0
+	+	347	0
+	+	348	0
+	+	347	0
+	+	368	0
+	+	367	0
+	+	1	0
+	+	1022	0
+	+	26	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	94	0
+	+	101	0
+	+	101	0
+	+	94	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	94	0
+	+	101	0
+	+	101	0
+	+	101	0
+	+	95	0
+	+	101	0
+	+	16	0
+	+	1	0
+	+	1	0
+	+	2	2
+	+	2	0
+	+	196	0
+	+	1	0
+	+	163	0
+	+	1	0
+	+	139	0
+	+	128	0
+	+	16	22
+	+	16	0
+	j	95	0
+	n	60	18
+
+> /var/www/leju/slae.leju.com/branches/v9.0/NERD_tree_1
+	"	13	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/__Tagbar__
+	"	50	2
+	.	61	0
+	+	77	0
+	+	74	0
+	+	61	0
+	+	61	0
+
+> /usr/share/vim/vim73/colors/a.cpp
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim73/colors/a.php
+	"	9	4
+	.	3	0
+	+	8	0
+	+	3	0
+
+> /usr/share/vim/vim73/colors/a.sh
+	"	1	0
+	.	8	0
+	+	12	0
+	+	8	0
+
+> ~/.vim/plugin/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/plugin/NERD_tree_2
+	"	11	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/a.php
+	"	1	0
+	.	6	0
+	+	21	0
+	+	16	0
+	+	11	0
+	+	6	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/a.sh
+	"	1	0
+	.	5	0
+	+	5	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/NERD_tree_2
+	"	1	2
+	.	1	0
+	+	1	0
+
+> ~/.vimrc
+	"	394	14
+	^	402	27
+	.	402	26
+	+	7	0
+	+	105	0
+	+	111	0
+	+	106	0
+	+	162	27
+	+	162	0
+	+	162	0
+	+	162	3
+	+	287	32
+	+	292	0
+	+	330	45
+	+	292	0
+	+	313	31
+	+	314	0
+	+	314	0
+	+	314	0
+	+	112	13
+	+	113	3
+	+	113	3
+	+	112	0
+	+	113	3
+	+	113	3
+	+	113	3
+	+	113	0
+	+	115	14
+	+	115	28
+	+	115	25
+	+	115	14
+	+	115	14
+	+	115	24
+	+	115	14
+	+	115	0
+	+	165	21
+	+	172	0
+	+	171	0
+	+	278	0
+	+	277	0
+	+	339	0
+	+	346	0
+	+	339	0
+	+	338	0
+	+	345	0
+	+	331	0
+	+	333	0
+	+	343	0
+	+	319	0
+	+	162	0
+	+	162	0
+	+	278	0
+	+	162	0
+	+	297	0
+	+	160	0
+	+	398	54
+	+	354	72
+	+	354	36
+	+	354	43
+	+	386	13
+	+	386	15
+	+	386	14
+	+	386	22
+	+	386	47
+	+	386	18
+	+	386	18
+	+	386	20
+	+	386	20
+	+	386	0
+	+	367	0
+	+	444	0
+	+	469	0
+	+	419	0
+	+	395	0
+	+	394	15
+	+	55	0
+	+	11	0
+	+	55	0
+	+	403	0
+	+	402	26
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/[Vundle] Installer
+	"	17	0
+	.	1	0
+	+	17	0
+	+	1	0
+
+> ~/__Tagbar__
+	"	3	0
+	.	32	0
+	+	32	0
+	+	32	0
+	+	32	0
+	+	32	0
+	+	32	0
+
+> ~/.vim/bundle/Tagbar/plugin/tagbar.vim
+	"	104	7
+
+> /bin/phptags
+	"	148	0
+
+> ~/.vim/bundle/taglist.vim/plugin/taglist.vim
+	"	244	4
+
+> ~/.vim/plugin/tagbar-phpctags.vim
+	"	16	0
+
+> ~/.vim/phpctags
+	"	21778	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/lo
+	"	1	0
+
+> ~/shell/58.sh
+	"	1	0
+	^	8	9
+	.	8	8
+	+	8	4
+	+	8	8
+
+> ~/shell/201.sh
+	"	8	20
+
+> ~/shell/get_vim_colors.sh
+	"	11	11
+	^	11	12
+	.	11	11
+	+	13	0
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	13	0
+	+	6	11
+	+	8	24
+	+	12	3
+	+	10	7
+	+	8	12
+	+	7	56
+	+	10	6
+	+	11	11
+
+> ~/shell/[Vundle] search
+	"	1663	8
+	.	1	0
+	+	4002	0
+	+	1	0
+
+> ~/shell/[Vundle] Installer
+	"	17	0
+	.	1	0
+	+	32	0
+	+	17	0
+	+	1	0
+
+> ~/.vim/bundle/CSApprox/doc/CSApprox.txt
+	"	83	67
+
+> ~/[Vundle] Installer
+	"	15	0
+	.	1	0
+	+	54	0
+	+	44	0
+	+	34	0
+	+	17	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/index.php
+	"	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/api/alertkeyword.php
+	"	154	4
+
+> /usr/share/vim/vim73/colors/jack.vim
+	"	46	0
+
+> /usr/share/vim/vim73/colors/jackchen.vim
+	"	8	3
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/__Tagbar__
+	"	1	0
+	.	25	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1256	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	1135	0
+	+	986	0
+	+	839	0
+	+	839	0
+	+	839	0
+	+	689	0
+	+	542	0
+	+	542	0
+	+	542	0
+	+	542	0
+	+	491	0
+	+	340	0
+	+	190	0
+	+	39	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+	+	25	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/NERD_tree_1
+	"	37	1
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/model/logic.php
+	"	17	4
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/functions.php
+	"	22	26
+	.	31	0
+	+	1	4
+	+	31	0
+
+> /usr/share/vim/vim73/colors/jack
+	"	1	0
+
+> ~/.vim/plugin/setcolor.vim
+	"	73	48
+	^	37	6
+	.	37	0
+	+	4	7
+	+	5	12
+	+	6	10
+	+	97	12
+	+	98	14
+	+	99	14
+	+	97	12
+	+	98	14
+	+	99	14
+	+	19	227
+	+	19	26
+	+	19	36
+	+	19	43
+	+	19	54
+	+	19	64
+	+	19	72
+	+	19	81
+	+	19	91
+	+	19	101
+	+	19	112
+	+	19	121
+	+	19	131
+	+	19	141
+	+	19	150
+	+	19	158
+	+	19	170
+	+	19	179
+	+	19	185
+	+	19	192
+	+	19	200
+	+	19	209
+	+	19	217
+	+	19	227
+	+	19	41
+	+	19	0
+	+	19	202
+	+	20	0
+	+	19	25
+	+	37	0
+
+> ~/.vim/bundle/CSApprox/README
+	"	54	22
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/command/parsefield.php
+	"	33	36
+
+> ~/.vim/bundle/CSApprox/plugin/CSApprox.vim
+	"	43	45
+
+> ~/.vim/plugin/csExplorer.vim
+	"	1	0
+
+> ~/index.html
+	"	40	45
+
+> ~/shell/change_vim_bg.sh
+	"	11	22
+	^	11	23
+	.	11	22
+	+	6	10
+	+	15	44
+	+	16	4
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	11
+	+	7	43
+	+	8	5
+	+	14	11
+	+	9	21
+	+	13	5
+	+	9	22
+	+	13	3
+	+	11	10
+	+	14	0
+	+	11	1
+	+	9	21
+	+	11	0
+	+	9	22
+	+	13	0
+	+	11	0
+	+	9	31
+	+	11	0
+	+	13	0
+	+	11	0
+	+	9	33
+	+	11	25
+	+	12	0
+	+	11	22
+
+> ~/.vim/plugin/[File List]
+	"	5	0
+	.	3	0
+	+	60	0
+	+	41	0
+	+	22	0
+	+	3	0
+	t	62	0
+
+> ~/.vim/plugin/setcolors.vim
+	"	1	0
+	.	1	0
+	+	1	57
+	+	1	60
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/[BufExplorer]
+	"	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/__Tag_List__
+	"	20	6
+	.	154	0
+	+	2581	0
+	+	2581	0
+	+	2581	0
+	+	2581	0
+	+	2581	0
+	+	2581	0
+	+	2581	0
+	+	2665	0
+	+	2664	0
+	+	2580	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2449	0
+	+	2500	0
+	+	2500	0
+	+	2499	0
+	+	2448	0
+	+	2397	0
+	+	2346	0
+	+	2295	0
+	+	2244	0
+	+	2193	0
+	+	2142	0
+	+	2091	0
+	+	2040	0
+	+	1989	0
+	+	1938	0
+	+	1887	0
+	+	1836	0
+	+	1785	0
+	+	1734	0
+	+	1683	0
+	+	1633	0
+	+	1632	0
+	+	1576	0
+	+	1471	0
+	+	1521	0
+	+	1470	0
+	+	1370	0
+	+	1420	0
+	+	1369	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1234	0
+	+	1320	0
+	+	1319	0
+	+	1233	0
+	+	1186	0
+	+	823	0
+	+	460	0
+	+	307	0
+	+	154	0
+
+> ~/.vim/bundle/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vim/bundle/NERD_tree_2
+	"	9	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vim/bundle/calendar.vim/README
+	"	1	0
+
+> ~/.vim/bundle/calendar.vim/plugin/calendar.vim
+	"	47	27
+
+> /var/www/test/news/jiaju.php
+	"	18	20
+	^	18	32
+	.	18	31
+	+	19	29
+	+	50	0
+	+	19	4
+	+	18	31
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/config/newscenter.php
+	"	82	13
+	^	31	25
+	.	31	22
+	+	31	22
+
+> /usr/share/vim/vim73/doc/help.txt
+	"	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/__Calendar
+	"	8	19
+	^	27	0
+	.	3	0
+	+	3	0
+
+> ~/NERD_tree_1
+	"	6	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/global.php
+	"	85	0
+
+> ~/[Vundle] list
+	"	10	0
+	.	1	0
+	+	1	0
+
+> ~/[Vundle] search
+	"	197	8
+	.	1	0
+	+	1	0
+
+> ~/__Tag_List__
+	"	20	4
+	.	56	0
+	+	332	0
+	+	331	0
+	+	276	0
+	+	221	0
+	+	166	0
+	+	111	0
+	+	56	0
+
+> ~/software/php_ext/mysql-5.6.17/regex/engine.c
+	"	61	38
+
+> /var/www/leju/admin.slae.leju.com/trunk/app/openapp/replica.php
+	"	47	8
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/model/model
+	"	1	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/model/logic.php
+	"	311	42
+	^	311	58
+	.	311	42
+	+	312	0
+	+	311	42
+
+> /var/www/leju/slae.leju.com/trunk/framework/dao/comdb.php
+	"	370	20
+
+> /var/www/leju/slae.leju.com/trunk/framework/NERD_tree_1
+	"	51	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/online_svn/slae.leju.com/trunk/framework/model/logic.php
+	"	311	4
+	.	311	0
+	+	311	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/__Tag_List__
+	"	49	6
+	.	177	0
+	+	178	0
+	+	178	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	354	0
+	+	353	0
+	+	177	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/model/model.php
+	"	1059	4
+
+> /var/www/leju/slae.leju.com/trunk/framework/model/supermodel.php
+	"	98	8
+
+> /var/www/leju/slae.leju.com/branches/v9.0/config/router.stand.php
+	"	28	0
+	.	28	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	28	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/config/router.query.php
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/v9.slae.leju.com
+	"	38	59
+	^	34	62
+	.	34	61
+	+	1	0
+	+	5	0
+	+	4	21
+	+	5	53
+	+	28	61
+	+	34	61
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/announce/model/announce.php
+	"	87	2
+	^	117	10
+	.	108	0
+	+	87	0
+	+	86	0
+	+	81	12
+	+	74	0
+	+	79	0
+	+	86	6
+	+	74	33
+	+	75	38
+	+	74	0
+	+	73	0
+	+	74	30
+	+	88	2
+	+	98	1
+	+	91	9
+	+	96	0
+	+	92	0
+	+	96	6
+	+	95	9
+	+	96	4
+	+	90	17
+	+	92	21
+	+	94	38
+	+	84	28
+	+	71	7
+	+	72	0
+	+	73	20
+	+	74	30
+	+	75	39
+	+	78	25
+	+	79	19
+	+	77	7
+	+	80	22
+	+	79	39
+	+	84	24
+	+	85	48
+	+	90	30
+	+	92	23
+	+	93	24
+	+	94	43
+	+	99	27
+	+	112	26
+	+	76	48
+	+	100	38
+	+	103	17
+	+	106	0
+	+	104	19
+	+	105	27
+	+	107	40
+	+	111	21
+	+	116	29
+	+	117	9
+	+	110	0
+	+	108	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/announce/model/NERD_tree_1
+	"	8	0
+	.	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/announce/model/NERD_tree_2
+	"	11	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/_template/layout/layout.html
+	"	45	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/announce/model/NERD_tree_3
+	"	25	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/default/template/default.index.html
+	"	2	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/announce/model/NERD_tree_4
+	"	7	0
+	.	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/app/viewhistory/model/viewhistory.php
+	"	70	5
+	.	70	0
+	+	70	3
+	+	70	0
+
+> /var/www/online_svn/slae.leju.com/trunk/framework/loader.php
+	"	313	62
+	.	1	0
+	+	251	18
+	+	89	9
+	+	90	0
+	+	98	0
+	+	98	0
+	+	421	0
+	+	98	0
+	+	421	8
+	+	1	0
+
+> /var/www/online_svn/slae.leju.com/trunk/framework/db/mysql.php
+	"	41	70
+
+> /var/www/online_svn/slae.leju.com/trunk/framework/dao/comdb.php
+	"	273	20
+	.	274	0
+	+	274	14
+	+	274	23
+	+	274	0
+
+> /var/log/php_errors.log
+	"	3986	3
+	^	3986	4
+	.	3986	3
+	+	3986	3
+
+> /var/log/php-fpm.log
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/www.vocms.com
+	"	33	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/model/builder.php
+	"	625	3
+	^	625	53
+	.	625	0
+	+	453	0
+	+	507	23
+	+	507	0
+	+	503	16
+	+	507	0
+	+	507	0
+	+	718	0
+	+	719	48
+	+	723	0
+	+	719	0
+	+	723	0
+	+	722	40
+	+	723	0
+	+	507	12
+	+	503	36
+	+	505	28
+	+	507	0
+	+	507	0
+	+	503	0
+	+	507	0
+	+	525	16
+	+	505	0
+	+	525	20
+	+	525	15
+	+	525	6
+	+	526	10
+	+	528	10
+	+	530	15
+	+	525	0
+	+	735	0
+	+	735	0
+	+	742	20
+	+	736	40
+	+	739	58
+	+	740	44
+	+	739	20
+	+	742	32
+	+	750	0
+	+	743	85
+	+	744	26
+	+	745	19
+	+	744	7
+	+	725	24
+	+	419	22
+	+	507	0
+	+	505	15
+	+	389	41
+	+	406	37
+	+	494	39
+	+	507	0
+	+	496	0
+	+	505	0
+	+	505	24
+	+	507	0
+	+	505	0
+	+	496	19
+	+	505	4
+	+	496	0
+	+	505	0
+	+	507	0
+	+	505	2
+	+	413	19
+	+	498	0
+	+	493	22
+	+	504	16
+	+	506	0
+	+	471	0
+	+	447	0
+	+	446	0
+	+	445	185
+	+	433	5
+	+	434	5
+	+	433	4
+	+	431	133
+	+	433	28
+	+	434	28
+	+	435	24
+	+	434	4
+	+	435	6
+	+	434	7
+	+	436	28
+	+	437	4
+	+	432	0
+	+	430	5
+	+	444	0
+	+	443	33
+	+	440	7
+	+	441	7
+	+	442	7
+	+	443	6
+	+	453	0
+	+	450	0
+	+	451	69
+	+	451	0
+	+	549	0
+	+	575	92
+	+	549	24
+	+	575	0
+	+	602	0
+	+	625	0
+
+> /var/www/leju/slae.leju.com/branches/v9.0/framework/cache/memcache.php
+	"	186	6
+
+> /var/www/leju/slae.leju.com/trunk/framework/cache/cache.php
+	"	136	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/cache.php
+	"	103	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/NERD_tree_2
+	"	10	0
+	.	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/cache/memcache.php
+	"	62	34
+
+> /var/www/leju/slae.leju.com/trunk/config/cache.memcache.php
+	"	32	5
+
+> /var/www/leju/slae.leju.com/trunk/config/cache.php
+	"	1	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/NERD_tree_3
+	"	10	0
+	.	1	0
+	+	1	0
+
+> /var/www/leju/slae.leju.com/trunk/config/comdb.php
+	"	1	0
+
+> /var/www/leju/slae.leju.com/trunk/framework/app/base.php
+	"	91	19
+	^	452	63
+	.	452	59
+	+	301	4
+	+	302	12
+	+	319	30
+	+	452	59
+
+> /var/www/leju/slae.leju.com/trunk/framework/loader.php
+	"	58	0

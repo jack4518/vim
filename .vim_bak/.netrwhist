@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/var/www/online_svn'
+let g:netrw_dirhist_2='/var/www/online_svn/slae.leju.com'
+let g:netrw_dirhist_3='/var/www/online_svn/slae.leju.com/trunk'
+let g:netrw_dirhist_4='/var/www/online_svn/slae.leju.com/trunk/framework'
+let g:netrw_dirhist_5='/home/jackchen/.vim'
+let g:netrw_dirhist_6='/var/www/leju/slae.leju.com/branches/v9.0/framework'
+let g:netrw_dirhist_7='/var/www/test/news'

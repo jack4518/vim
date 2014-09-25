@@ -1,0 +1,1444 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/_publish
+
+# 上个 替换 Search 图案：
+~MSle0&^\s*$
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:TlistToggle
+:wq
+:q
+:w
+:tabnew sync.php
+:tabnew fieldparser.php
+:tabnew ../../app/document/default.php
+:tabnew ../../app/document/model/document.php
+:q!
+:tabnew ../../_function/functions.php
+:TlistLoggle
+:tabnew ../../project/model/project.php
+:tabnew ../../news/model/queue.php
+:tabnew ../../news/queue.php
+:!pwd
+:!ls
+:tabnew ../project/model/project.php
+:wq\
+:NERDTreeTogglei
+:NERDTreeToggleifi
+:866
+:set fdm=marker
+:tabnew ~/.vimrc
+:tabnew 
+:w!
+:W
+:%s/pub/cms/g
+:%s/www\.intra\-mart\.com/pub\.house\.sina\.com\.cn/g
+:set hlsearch
+:e!
+:set nu
+:%s/5\.3//g
+:g/^\s*$/d
+:%s/^\s*$//g
+:%s/^$//g
+:wq!
+:tags
+:help taglists
+:helptags .
+:helptags
+:tabnew ../parse.php
+:1500
+:750
+:715
+:tabnew async.php
+:newtab sync.php
+:q1
+:ctags
+:ctag
+:tabnew api/model/noticeweibo.php
+:tabnew model/templatefield.php
+:tabnew ../../app/history/model/history.php
+:tabnew ../../app/templatefield/
+:tabnew parse.php
+:w]
+:tabnew ../plugin/publish.php
+
+# 查找字符串 历史记录 (从新到旧)：
+?/_publish
+?/is_adds
+?/is_add
+?/_parseField(
+?/parse(
+?/pars(
+?/_parseS
+?/sql
+?/var_dum
+?/getDataForPub
+?/publishA
+?//
+?/queue_id
+?/curl_get(
+?/cache
+?/memcache
+?/edit
+? ^$
+?/addAc
+?/house
+?/_publishDocu
+?/var_dump
+?/parsed_fields
+?/折
+?/开
+?/第
+? ^\s*$
+?/loggedToLocal
+?/Logged
+?/Logged()
+?/Loged
+?/needLo
+?/needL
+?/needLo	
+?/authenticate
+?/authenticate
+?/_checkAu
+? pub
+?/cms.
+?/pub.house
+? www\.intra\-mart\.com
+?/root
+?/php
+?/nobody
+? 5\.3
+?/.so
+?/error_rep
+?/log_er
+?/log_er	
+?/fastcgi
+?/error_log
+?/error_lo	
+?/error
+?/a
+?/error_reporting
+?/gearman
+?/php_error
+?/zlib
+?/extension
+?/#
+?/fold
+?/折jjjj
+?/jackchen
+?/buil
+?/doj
+?/do
+?/bu
+?/var_dump($field
+?/var_dump(
+?/eval
+?/is_show_message
+?/rsync
+?/$this->_is
+?/$this->_
+?/dump
+?/busy
+?/gzip
+?/update
+?/_editField
+?/editCo
+?/addH
+?/_editF
+?/getDa
+?/fpm
+?/fetch
+?/getFieldValue(
+?/getFieldValue
+?/field(
+?/print_r
+?/pr(
+?/pr
+?/publish_field
+?/publish_tf
+?/publish_fie
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	CHAR	0
+	/**
+		 * 执行任务
+		 *
+		 * @param unknown_type $value
+		 *
+""1	CHAR	0
+	
+		 * @var	arra
+"2	LINE	0
+			var_dump($is_addslashes);exit;
+"3	LINE	0
+				if($field_cn_name=='mb_news')
+				var_dump($return);
+"4	LINE	0
+	            die('abc'); 
+"5	LINE	0
+	            die('abc'); 
+"6	LINE	0
+				
+"7	LINE	0
+			$cache_ids = $this->cacher->get('news_quequ_' . $cache_queue_id);
+"8	LINE	0
+				$where[] = $new['id'];
+"9	LINE	0
+	     *
+"-	CHAR	0
+	true
+
+# 全局变量:
+
+# 文件标记:
+'0  731  34  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+'1  46  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+'2  218  60  /var/www/leju/pub.house.sina.com.cn/trunk/app/document/default.php
+'3  357  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+'4  106  28  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+'5  103  7  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+'6  82  94  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+'7  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/pr
+'8  257  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+'9  288  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+
+# 跳转列表 (从新到旧):
+-'  731  34  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  451  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  46  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  416  4  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/__Tag_List__
+-'  404  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/__Tag_List__
+-'  4  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  218  60  /var/www/leju/pub.house.sina.com.cn/trunk/app/document/default.php
+-'  1  0  /var/www/leju/pub.house.sina.com.cn/trunk/app/document/default.php
+-'  1  0  /var/www/leju/pub.house.sina.com.cn/trunk/app/document/model/document.php
+-'  357  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1554  4  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/__Tag_List__
+-'  1208  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/__Tag_List__
+-'  106  28  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+-'  40  2  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+-'  76  38  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+-'  61  2  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+-'  103  7  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  82  94  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/pr
+-'  257  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+-'  30  4  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/__Tag_List__
+-'  2  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/__Tag_List__
+-'  196  5  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+-'  285  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+-'  228  4  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/__Tag_List__
+-'  197  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/__Tag_List__
+-'  73  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  19  4  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/__Tag_List__
+-'  2  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/__Tag_List__
+-'  29  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/project.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/project.php
+-'  71  4  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  61  24  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+-'  310  84  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/project.php
+-'  309  33  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/project.php
+-'  103  73  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/template/project/project_operation.html
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/template/project/project_operation.html
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project.php
+-'  100  1  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/template/project/project_operation.html
+-'  17  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/template/project
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/document/default.php
+-'  31  10  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/news/queue.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/app/news/queue.php
+-'  416  32  /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/newscenter.php
+-'  1  0  /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/newscenter.php
+-'  418  44  /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/newscenter.php
+-'  100  5  /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/newscenter.php
+-'  112  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  12  23  /var/www/leju/pub.house.sina.com.cn/trunk/index.php
+-'  1  0  /var/www/leju/pub.house.sina.com.cn/trunk/index.php
+-'  717  14  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  719  27  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  755  50  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1  0  /var/www/leju/pub.house.sina.com.cn/trunk/framework/loader.php
+-'  1  0  /etc/sudoers
+-'  945  13  /usr/local/webserver/php/lib/php.ini
+-'  1  0  /usr/local/webserver/php/lib/php.ini
+-'  15  33  /var/www/test/news/mobile.php
+-'  1  0  /var/www/test/news/mobile.php
+-'  1  1  /var/www/index.html
+-'  20  0  /var/log/php_errors.log
+-'  1  0  /var/log/php_errors.log
+-'  1134  0  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  740  4  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1996  68  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1995  3  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1675  23  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1674  24  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1325  57  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1323  8  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1319  15  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1317  31  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1257  42  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1255  53  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1253  17  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1248  72  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1247  45  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1246  3  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1017  82  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  988  88  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  905  84  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  677  64  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  638  25  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  589  69  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  550  71  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  439  31  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  394  66  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  393  33  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  392  64  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  391  8  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  300  19  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  236  16  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  196  4  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+-'  1297  8  /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/abstract.php
+	"	731	34
+	.	46	0
+	+	2	0
+	+	2	0
+	+	1	0
+	+	1134	0
+	+	866	84
+	+	715	34
+	+	715	114
+	+	1500	38
+	+	1500	118
+	+	1500	0
+	+	1500	113
+	+	1501	6
+	+	1502	6
+	+	1504	10
+	+	715	0
+	+	702	0
+	+	695	0
+	+	695	0
+	+	1504	0
+	+	1502	5
+	+	1526	37
+	+	1527	37
+	+	1540	38
+	+	1541	6
+	+	1555	37
+	+	1554	38
+	+	1569	38
+	+	1570	6
+	+	1571	6
+	+	1511	6
+	+	1191	60
+	+	1192	7
+	+	1181	78
+	+	1192	6
+	+	734	12
+	+	787	15
+	+	860	14
+	+	867	16
+	+	877	17
+	+	900	16
+	+	909	8
+	+	1744	87
+	+	1754	17
+	+	1892	34
+	+	1835	79
+	+	1875	17
+	+	1835	74
+	+	1892	22
+	+	1875	0
+	+	1892	10
+	+	1134	10
+	+	1248	0
+	+	787	0
+	+	786	0
+	+	786	0
+	+	784	0
+	+	783	0
+	+	784	0
+	+	866	85
+	+	46	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/__Tag_List__
+	"	149	4
+	.	403	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	1610	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2012	0
+	+	2011	0
+	+	1609	0
+	+	1208	0
+	+	1207	0
+	+	805	0
+	+	403	0
+
+> /var/www/online_svn/stat.grid.house.sina.com.cn/trunk/api/get_airticle_record.php
+	"	47	25
+
+> /var/www/online_svn/stat.grid.house.sina.com.cn/trunk/tools/mysql_exec.php
+	"	7	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/document/model/document.php
+	"	2235	11
+	.	2235	0
+	+	2236	0
+	+	2256	0
+	+	2236	0
+	+	2239	0
+	+	1963	9
+	+	1964	9
+	+	1953	0
+	+	1954	0
+	+	1955	0
+	+	1956	0
+	+	1957	0
+	+	1958	0
+	+	1959	0
+	+	1960	0
+	+	2236	0
+	+	2236	0
+	+	2233	0
+	+	2236	0
+	+	2236	0
+	+	2235	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/document/default.php
+	"	218	60
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/fieldparser.php
+	"	100	3
+	^	474	5
+	.	474	4
+	+	430	0
+	+	445	0
+	+	447	18
+	+	447	0
+	+	473	4
+	+	474	4
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/sync.php
+	"	132	34
+	.	185	0
+	+	185	0
+
+> /usr/local/webserver/nginx/conf/nginx.conf
+	"	40	0
+	^	49	16
+	.	49	15
+	+	75	8
+	+	76	8
+	+	77	8
+	+	78	8
+	+	79	8
+	+	80	8
+	+	81	8
+	+	54	27
+	+	38	16
+	+	40	4
+	+	5	0
+	+	55	38
+	+	79	68
+	+	23	0
+	+	22	0
+	+	21	3
+	+	81	3
+	+	64	0
+	+	5	0
+	+	25	4
+	+	77	0
+	+	78	7
+	+	79	7
+	+	80	7
+	+	81	0
+	+	82	1
+	+	25	31
+	+	70	0
+	+	33	12
+	+	41	26
+	+	42	22
+	+	42	24
+	+	39	31
+	+	43	29
+	+	41	26
+	+	36	0
+	+	38	0
+	+	39	0
+	+	36	3
+	+	49	15
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/templatefield/common.php
+	"	123	4
+	.	124	0
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	4
+	+	122	14
+	+	122	0
+	+	123	0
+	+	123	0
+	+	122	0
+	+	125	0
+	+	126	0
+	+	124	0
+	+	124	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/templatefield/model/templatefield.php
+	"	914	20
+	.	915	0
+	+	945	0
+	+	914	0
+	+	1439	0
+	+	1439	0
+	+	1438	0
+	+	1427	0
+	+	1427	0
+	+	1413	0
+	+	1424	0
+	+	914	0
+	+	915	0
+	+	913	0
+	+	918	0
+	+	1413	0
+	+	1424	0
+	+	1412	0
+	+	1412	0
+	+	1424	0
+	+	1427	0
+	+	1447	0
+	+	1438	0
+	+	1452	0
+	+	915	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/framework/loader.php
+	"	217	8
+	.	217	0
+	+	218	0
+	+	218	0
+	+	217	0
+	+	217	11
+	+	217	0
+	+	217	0
+
+> /usr/local/webserver/php/lib/php.ini
+	"	64	0
+	^	945	14
+	.	945	13
+	+	955	17
+	+	643	0
+	+	866	0
+	+	643	20
+	+	521	22
+	+	956	13
+	+	289	27
+	+	946	0
+	+	945	13
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/ssi/default.php
+	"	158	10
+	.	159	0
+	+	159	0
+	+	155	0
+	+	156	0
+	+	156	0
+	+	154	0
+	+	155	0
+	+	155	0
+	+	156	0
+	+	155	0
+	+	159	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/publish.php
+	"	962	25
+	.	962	0
+	+	1637	0
+	+	1656	0
+	+	1659	0
+	+	1682	5
+	+	1682	0
+	+	1659	0
+	+	1658	0
+	+	1636	0
+	+	963	0
+	+	992	0
+	+	992	0
+	+	969	0
+	+	969	0
+	+	965	0
+	+	969	15
+	+	965	16
+	+	971	0
+	+	972	15
+	+	973	15
+	+	975	15
+	+	935	10
+	+	927	10
+	+	919	11
+	+	910	0
+	+	919	0
+	+	927	0
+	+	935	0
+	+	951	0
+	+	960	0
+	+	958	10
+	+	960	10
+	+	964	0
+	+	963	0
+	+	962	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/parse.php
+	"	223	14
+
+> /usr/local/webserver/php/etc/php.ini
+	"	1	0
+
+> /var/log/php_errors.log
+	"	65	0
+
+> /usr/local/webserver/php/etc/php-fpm.conf
+	"	32	20
+	^	32	21
+	.	32	20
+	+	148	14
+	+	149	15
+	+	25	0
+	+	32	20
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/history/model/history.php
+	"	119	7
+	^	119	8
+	.	119	7
+	+	119	7
+
+> /etc/hosts
+	"	12	29
+	^	11	17
+	.	11	16
+	+	93	26
+	+	93	0
+	+	3	0
+	+	3	0
+	+	93	0
+	+	11	0
+	+	12	15
+	+	14	14
+	+	11	16
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/noticeweibo.php
+	"	106	28
+	.	106	0
+	+	106	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/model/__Tag_List__
+	"	2	0
+	^	87	6
+	.	93	0
+	+	2	0
+	+	94	0
+	+	93	0
+
+> ../project/model/project.php
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/project.php
+	"	58	0
+	^	82	8
+	.	82	0
+	+	269	0
+	+	291	0
+	+	289	0
+	+	288	3
+	+	289	0
+	+	292	15
+	+	294	0
+	+	298	3
+	+	295	21
+	+	288	26
+	+	287	81
+	+	288	0
+	+	276	16
+	+	270	67
+	+	278	6
+	+	279	38
+	+	82	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/news/model/queue.php
+	"	52	31
+	.	68	0
+	+	51	0
+	+	72	0
+	+	60	2
+	+	61	1
+	+	60	1
+	+	62	13
+	+	63	33
+	+	67	37
+	+	69	38
+	+	67	31
+	+	66	0
+	+	68	2
+	+	68	2
+	+	68	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/news/queue.php
+	"	132	8
+	^	125	5
+	.	131	4
+	+	122	0
+	+	122	0
+	+	38	41
+	+	123	0
+	+	131	30
+	+	131	32
+	+	123	15
+	+	123	15
+	+	127	0
+	+	123	63
+	+	124	17
+	+	126	2
+	+	125	15
+	+	124	20
+	+	132	0
+	+	124	0
+	+	125	3
+	+	55	0
+	+	70	0
+	+	65	4
+	+	66	0
+	+	53	18
+	+	62	21
+	+	70	45
+	+	72	45
+	+	70	31
+	+	66	4
+	+	54	3
+	+	64	0
+	+	36	43
+	+	36	0
+	+	125	2
+	+	71	16
+	+	72	56
+	+	73	14
+	+	54	1
+	+	64	4
+	+	62	13
+	+	62	0
+	+	56	0
+	+	71	3
+	+	73	3
+	+	90	29
+	+	107	1
+	+	94	58
+	+	94	0
+	+	93	48
+	+	94	56
+	+	94	31
+	+	96	42
+	+	94	3
+	+	96	55
+	+	95	24
+	+	103	0
+	+	96	75
+	+	98	21
+	+	102	0
+	+	99	33
+	+	101	4
+	+	100	23
+	+	103	3
+	+	85	3
+	+	89	3
+	+	84	0
+	+	86	10
+	+	87	0
+	+	91	23
+	+	92	20
+	+	77	28
+	+	79	13
+	+	78	77
+	+	93	3
+	+	94	0
+	+	96	5
+	+	97	45
+	+	96	4
+	+	98	17
+	+	99	5
+	+	101	5
+	+	96	0
+	+	95	0
+	+	79	9
+	+	95	20
+	+	125	4
+	+	131	4
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/_function/functions.php
+	"	218	9
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse/async.php
+	"	34	26
+	.	28	0
+	+	60	38
+	+	65	0
+	+	92	0
+	+	15	0
+	+	11	0
+	+	12	0
+	+	28	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/plugin/parse.php
+	"	213	16
+	.	244	2
+	+	244	2
+
+> ~/shell/201.sh
+	"	8	20
+	^	8	21
+	.	8	21
+	+	8	21
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/cron/ssicron.php
+	"	40	1
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/project.php
+	"	136	1
+	^	108	12
+	.	108	10
+	+	65	61
+	+	79	15
+	+	80	44
+	+	82	120
+	+	109	4
+	+	27	0
+	+	82	20
+	+	64	41
+	+	65	11
+	+	79	40
+	+	79	18
+	+	82	0
+	+	83	22
+	+	107	0
+	+	87	35
+	+	106	0
+	+	91	0
+	+	84	21
+	+	91	5
+	+	85	13
+	+	91	16
+	+	88	40
+	+	91	27
+	+	88	0
+	+	89	41
+	+	105	5
+	+	92	14
+	+	85	0
+	+	86	10
+	+	92	19
+	+	100	0
+	+	105	5
+	+	92	56
+	+	93	26
+	+	97	0
+	+	94	30
+	+	95	0
+	+	94	30
+	+	95	10
+	+	100	6
+	+	104	7
+	+	109	19
+	+	94	16
+	+	95	14
+	+	102	16
+	+	102	14
+	+	98	10
+	+	109	21
+	+	93	18
+	+	100	18
+	+	93	18
+	+	100	0
+	+	98	0
+	+	90	0
+	+	109	0
+	+	110	0
+	+	71	0
+	+	67	25
+	+	69	2
+	+	68	21
+	+	69	2
+	+	67	3
+	+	71	10
+	+	72	10
+	+	71	11
+	+	79	0
+	+	71	2
+	+	70	0
+	+	79	0
+	+	78	0
+	+	109	5
+	+	110	8
+	+	92	87
+	+	94	61
+	+	101	0
+	+	102	0
+	+	99	0
+	+	100	0
+	+	94	62
+	+	101	62
+	+	94	18
+	+	101	18
+	+	63	51
+	+	82	106
+	+	73	4
+	+	75	18
+	+	76	15
+	+	82	94
+	+	96	41
+	+	103	0
+	+	84	20
+	+	109	0
+	+	107	16
+	+	93	23
+	+	100	23
+	+	99	7
+	+	108	15
+	+	107	0
+	+	110	27
+	+	108	10
+
+> ~/shell/245.sh
+	"	9	20
+	^	9	21
+	.	9	20
+	+	8	0
+	+	9	20
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/noticeweibo.php
+	"	35	2
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/__Tag_List__
+	"	2	0
+	.	1	0
+	+	6	0
+	+	3	0
+	+	3	0
+	+	3	0
+	+	2	0
+	+	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/framework/model.php
+	"	509	36
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/framework/cache/memcache.php
+	"	85	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/framework/cache/__Tag_List__
+	"	16	4
+	.	32	0
+	+	32	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/__Tag_List__
+	"	175	0
+	.	196	0
+	+	436	0
+	+	319	0
+	+	196	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/api/pr
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/model/__Tag_List__
+	"	30	4
+	.	196	0
+	+	391	0
+	+	196	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/_template/publish_topic.html
+	"	34	38
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/project.php
+	"	29	0
+	.	1	0
+	+	309	54
+	+	312	36
+	+	309	74
+	+	312	0
+	+	311	0
+	+	309	0
+	+	310	84
+	+	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/__Tag_List__
+	"	209	2
+	.	249	0
+	+	249	0
+
+> ~/.vim/doc/__Tag_List__
+	"	96	4
+	.	196	0
+	+	212	0
+	+	407	0
+	+	211	0
+	+	406	0
+	+	196	0
+
+> ~/.vimrc
+	"	314	27
+	^	314	28
+	.	314	27
+	+	307	0
+	+	308	69
+	+	7	0
+	+	289	0
+	+	185	1
+	+	47	1
+	+	47	1
+	+	182	0
+	+	47	21
+	+	47	0
+	+	182	1
+	+	183	1
+	+	184	1
+	+	315	0
+	+	311	28
+	+	314	27
+
+> ~/.vim/funclist.txt
+	"	2976	0
+	^	2976	0
+	.	2976	0
+	+	1744	57
+	+	1760	55
+	+	1766	65
+	+	1767	55
+	+	1768	54
+	+	1769	73
+	+	1770	64
+	+	1771	62
+	+	1772	62
+	+	1773	64
+	+	1774	65
+	+	1775	65
+	+	1776	52
+	+	1779	52
+	+	1799	43
+	+	1808	47
+	+	1812	48
+	+	1815	45
+	+	1819	42
+	+	1846	42
+	+	1851	49
+	+	1854	55
+	+	1855	56
+	+	1856	56
+	+	1857	53
+	+	1858	55
+	+	1859	56
+	+	1862	45
+	+	1892	46
+	+	1893	41
+	+	1909	56
+	+	1910	58
+	+	1911	67
+	+	1914	60
+	+	1915	66
+	+	1916	75
+	+	1917	62
+	+	1918	66
+	+	1921	55
+	+	1922	70
+	+	1923	59
+	+	1924	68
+	+	1925	59
+	+	1926	58
+	+	1927	67
+	+	1928	61
+	+	1929	58
+	+	1930	60
+	+	1931	69
+	+	1932	61
+	+	1933	61
+	+	1934	61
+	+	1935	58
+	+	1936	59
+	+	1937	58
+	+	1938	54
+	+	1941	56
+	+	1942	55
+	+	1943	61
+	+	1946	62
+	+	1949	46
+	+	1953	44
+	+	1993	43
+	+	1994	46
+	+	1995	49
+	+	1996	50
+	+	1999	44
+	+	2507	58
+	+	2513	44
+	+	2554	44
+	+	2603	45
+	+	2612	45
+	+	2619	45
+	+	2629	49
+	+	2654	49
+	+	2655	50
+	+	2658	47
+	+	2663	51
+	+	2672	45
+	+	2736	54
+	+	2739	42
+	+	2749	41
+	+	2776	54
+	+	2779	44
+	+	2796	54
+	+	2841	41
+	+	2844	48
+	+	2857	46
+	+	2884	54
+	+	2888	44
+	+	2901	51
+	+	2914	51
+	+	2927	44
+	+	2940	55
+	+	2944	55
+	+	2948	48
+	+	2951	55
+	+	2955	51
+	+	2967	43
+	+	2976	0
+
+> /usr/share/vim/vim73/doc/help.txt
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/topic/default.php
+	"	237	23
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/topic/template/demo.html
+	"	79	5
+	.	3	0
+	+	3	0
+	+	3	0
+
+> ~/test/abc.txt
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project/template/project/project_operation.html
+	"	103	73
+	^	103	74
+	.	103	73
+	+	100	0
+	+	101	4
+	+	102	50
+	+	104	0
+	+	103	73
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/project.php
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/app/document/default.php
+	"	1	0
+
+> /var/www/online_svn/pub.house.sina.com.cn/trunk/plugin/newscenter.php
+	"	416	32
+	^	416	33
+	.	416	32
+	+	416	32
+
+> /etc/group
+	"	21	10
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/index.php
+	"	6	0
+	^	12	24
+	.	12	23
+	+	12	23
+
+> /etc/sudoers
+	"	1	0
+	^	22	0
+	.	21	10
+	+	23	0
+	+	21	10
+
+> /var/www/test/news/mobile.php
+	"	15	33
+	^	15	34
+	.	15	33
+	+	16	1
+	+	17	1
+	+	15	33
+
+> /var/www/index.html
+	"	1	1
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/config/publish.php
+	"	9	18
+	^	9	19
+	.	9	18
+	+	9	18
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/_model/pubmodel.php
+	"	10	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/config/gearman.php
+	"	4	2
+	^	21	16
+	.	4	2
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	5
+	+	14	42
+	+	16	19
+	+	18	33
+	+	21	15
+	+	3	2
+	+	4	2
+	+	3	2
+	+	4	2
+
+> ~/gearman.php
+	"	21	15
+	^	20	56
+	.	20	0
+	+	20	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/cms.house.sina.com.cn
+	"	49	45
+	^	49	46
+	.	49	45
+	+	4	0
+	+	14	24
+	+	9	24
+	+	6	0
+	+	2	27
+	+	3	0
+	+	4	0
+	+	3	41
+	+	23	55
+	+	24	55
+	+	49	45
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/include/define.php
+	"	1	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/include/init.php
+	"	1	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/library/pub/auth.php
+	"	10	0
+	^	10	0
+	.	10	0
+	+	102	0
+	+	98	0
+	+	99	0
+	+	103	0
+	+	107	0
+	+	111	0
+	+	115	0
+	+	103	5
+	+	107	5
+	+	111	5
+	+	115	5
+	+	172	0
+	+	115	5
+	+	173	0
+	+	115	0
+	+	187	0
+	+	188	0
+	+	177	0
+	+	187	0
+	+	188	0
+	+	188	0
+	+	192	0
+	+	192	0
+	+	194	0
+	+	194	0
+	+	187	0
+	+	96	32
+	+	97	10
+	+	96	0
+	+	188	6
+	+	186	30
+	+	219	0
+	+	213	0
+	+	188	0
+	+	190	0
+	+	10	0
+
+> /usr/local/webserver/nginx/logs/error.log
+	"	2	0
+	.	1	0
+	+	1	0
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/library/pub/auth/result.php
+	"	3	0
+	^	3	0
+	.	2	1
+	+	2	1
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/app/application.php
+	"	164	8
+	.	165	0
+	+	70	0
+	+	67	0
+	+	66	0
+	+	69	0
+	+	68	0
+	+	67	0
+	+	67	0
+	+	68	0
+	+	68	0
+	+	144	0
+	+	175	0
+	+	165	0
+	+	164	0
+	+	165	0
+
+> /usr/local/webserver/nginx/logs/cms.house.sina.com.cn.log
+	"	1	0
+	.	1	0
+	+	1	0
+
+> /usr/local/webserver/php/php_errors.log
+	"	1	0
+
+> /etc/apt/sources.list
+	"	37	0
+	^	37	1
+	.	37	0
+	+	50	0
+	+	50	0
+	+	49	0
+	+	47	85
+	+	46	86
+	+	43	92
+	+	45	0
+	+	1	0
+	+	25	88
+	+	2	0
+	+	35	0
+	+	39	0
+	+	37	0
+
+> /etc/apt/sources.list.d/couchbase.list
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/pub.house.sina.com.cn.conf
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/cms.house.sina.com.c
+	"	1	0
+
+> /usr/local/webserver/nginx/logs/access.log
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/cms
+	"	1	0
+
+> /usr/local/webserver/nginx/conf/site-enabled/pub.house.sina.com.cn
+	"	1	0
+	^	8	21
+	.	8	20
+	+	3	0
+	+	13	20
+	+	8	20
+
+> /var/www/leju/pub.house.sina.com.cn/trunk/.htaccess
+	"	1	0
+
+> /etc/host
+	"	1	0
+
+> /usr/local/webserver/nginx/ng
+	"	1	0
+
+> /var/www/phpinfo.php
+	"	3	1
+	^	3	2
+	.	3	1
+	+	7	1
+	+	3	1
+
+> /etc/init.d/php-fpm
+	"	1	0
+	.	16	0
+	+	16	0
+
+> /var/log/mysql/error.log
+	"	95	0
+	.	1	0
+	+	1	0
+
+> /media/jackchen/win7/Windows/System32/drivers/etc/hosts
+	"	1	0
+
+> /etc/my.cnf
+	"	108	0
+
+> ~/exec/my.cnf
+	"	1	0
+
+> /usr/local/webserver/mysql/support-files/mysqld_multi.server
+	"	1	0
+
+> /usr/local/webserver/mysql/my.cnf
+	"	1	0
+
+> /etc/init.d/mysqld
+	"	51	0
