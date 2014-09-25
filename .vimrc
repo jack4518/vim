@@ -50,14 +50,8 @@ func! OpenWorkSpace()
 endfunc
 "比较文件  
 nnoremap <C-F2> :vert diffsplit 
-"新建标签  
-map <M-F2> :tabnew<CR>  
-"列出当前目录文件  
-map <F3> :tabnew .<CR>  
-"打开树状文件目录  
-map <C-F3> \be  
 
-"Ctrl+s键----关闭当前页
+"Ctrl+w键----关闭当前页
 map <C-w> :call CloseTab()<CR>
 func! CloseTab()
 	exec "TagbarClose"
@@ -65,8 +59,8 @@ func! CloseTab()
 	exec "q!"
 endfunc
 
-"F9键----新建一个tab标签页
-map <F9> :call SaveInputData()<CR>
+"F3或者ctrl+t键----新建一个tab标签页
+map <F3> :call SaveInputData()<CR>
 map <C-t> :call SaveInputData()<CR>
 func! SaveInputData()
 	exec "tabnew"
