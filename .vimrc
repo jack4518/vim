@@ -42,7 +42,12 @@ map <C-c> +y
 nnoremap <F2> :g/^\s*$/d<CR> 
 "F4打开关闭ctag目录树  
 "map <F4> :TlistToggle<CR> 
-map <F4> :TagbarToggle<CR> 
+"map <F4> :TagbarToggle<CR> 
+map <F4> :call OpenWorkSpace()<CR> 
+func! OpenWorkSpace()
+	exec "TagbarToggle"
+	exec "NERDTreeToggle"
+endfunc
 "比较文件  
 nnoremap <C-F2> :vert diffsplit 
 "新建标签  
