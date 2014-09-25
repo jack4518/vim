@@ -60,16 +60,19 @@ map <C-F3> \be
 "Ctrl+s键----关闭当前页
 map <C-w> :call CloseTab()<CR>
 func! CloseTab()
-	exec "normal w!"
-	exec "normal q!"
+	exec "TagbarClose"
+	exec "NERDTreeClose"
+	exec "q!"
 endfunc
 
 "F9键----新建一个tab标签页
 map <F9> :call SaveInputData()<CR>
+map <C-t> :call SaveInputData()<CR>
 func! SaveInputData()
 	exec "tabnew"
-	exec "tabnew"
 	exec 'normal "+gP'
+	exec "TagbarOpen"
+	exec "NERDTree"
 	"exec "w! /tmp/input_data"
 endfunc
 
@@ -100,6 +103,22 @@ if version >= 603
 	set encoding=utf-8
 endif
 
+"修改leader键为逗号
+let mapleader=","
+imap jj <esc>
+
+"使用tab键来代替%进行匹配跳转
+nmap <tab> %
+vmap <tab> %
+
+"折叠html标签 ,fold tag
+nnoremap <leader>ft vatzf
+"使用,v来选择刚刚复制的段落，这样可以用来缩进
+nnoremap <leader>v v`]
+
+"取消粘贴缩进
+nmap <leader>p :set paste<CR>
+nmap <leader>pp :set nopaste<CR>
 
 "字体 
 "if (has("gui_running")) 
@@ -177,6 +196,7 @@ set number
 set history=1000
 "搜索忽略大小写
 set ignorecase
+set smartcase
 "搜索逐字符高亮
 set hlsearch
 set incsearch
