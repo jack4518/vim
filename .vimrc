@@ -6,7 +6,10 @@
 "colorscheme desert 
 "colorscheme elflord
 "colorscheme ron
-colorscheme jack
+"colorscheme jack
+"colorscheme jack_qq
+colorscheme jack_cqq
+"colorscheme jack_normal
 "colorscheme bensday
 "colorscheme asmanian2 
 "colorscheme anotherdark
@@ -190,7 +193,7 @@ set number
 set history=1000
 "搜索忽略大小写
 set ignorecase
-set smartcase
+"set smartcase
 "搜索逐字符高亮
 set hlsearch
 set incsearch
