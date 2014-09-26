@@ -30,7 +30,7 @@ hi ErrorMsg guifg=#eb0909 guibg=NONE guisp=NONE gui=bold ctermfg=160 ctermbg=NON
 "hi Ignore -- no settings --
 hi Debug guifg=#fff1b8 guibg=NONE guisp=NONE gui=NONE ctermfg=229 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=NONE guibg=#5b7188 guisp=#5b7188 gui=NONE ctermfg=NONE ctermbg=60 cterm=NONE
-hi Identifier guifg=#db99ce guibg=NONE guisp=NONE gui=NONE ctermfg=175 ctermbg=NONE cterm=NONE
+hi Identifier guifg=#dbafe6 guibg=NONE guisp=NONE gui=NONE ctermfg=182 ctermbg=NONE cterm=NONE
 hi SpecialChar guifg=#fdfae9 guibg=NONE guisp=NONE gui=NONE ctermfg=230 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#c74883 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
 hi StorageClass guifg=#d1435d guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
@@ -45,7 +45,7 @@ hi PMenuSel guifg=#ffffff guibg=#bdb184 guisp=#bdb184 gui=NONE ctermfg=15 ctermb
 hi Search guifg=#ffffff guibg=#914e07 guisp=#914e07 gui=NONE ctermfg=15 ctermbg=94 cterm=NONE
 "hi CTagsGlobalVariable -- no settings --
 hi Delimiter guifg=#f3e8be guibg=NONE guisp=NONE gui=NONE ctermfg=230 ctermbg=NONE cterm=NONE
-hi Statement guifg=#e60e4e guibg=NONE guisp=NONE gui=bold ctermfg=161 ctermbg=NONE cterm=bold
+hi Statement guifg=#f70389 guibg=NONE guisp=NONE gui=bold ctermfg=198 ctermbg=NONE cterm=bold
 hi SpellRare guifg=#acacff guibg=#0d1f24 guisp=#0d1f24 gui=underline ctermfg=147 ctermbg=235 cterm=underline
 "hi EnumerationValue -- no settings --
 hi Comment guifg=#737375 guibg=NONE guisp=NONE gui=NONE ctermfg=243 ctermbg=NONE cterm=NONE
